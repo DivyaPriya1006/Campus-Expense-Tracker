@@ -26,4 +26,4 @@ Framework: Built with React for a dynamic and modular UI.
 TypeScript: Ensures type safety and reduces runtime errors.
 Icons: Utilizes Lucide React Icons for consistent and meaningful iconography.
 Charts: Integrated Recharts for visually appealing and interactive data representation.
-Backend
+
